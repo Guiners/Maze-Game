@@ -1,0 +1,11 @@
+dodac muzyczke  taka 80s retrovave i utrzymac wszystko w tej tematyce
+poruszamy sie malym samochodzikiem oldschool albo cos tego typu
+
+zrobic 3 poziomy
+1 wmiare prosty
+2 sredni ale wykonalny
+3 trudny maly i jak walniesz w sciane to krzyk i morda haha
+
+#rozkminic czy latwiej bedzie stworzyc mechanike kolizji wzgledem scian tzn:
+1. rysuje sciany i jak kwadrat wchodzi w te sciany traci zycie
+2. rysuje sciezki i jezeli kwadrat wychodzi poza sciany to traci zycie
